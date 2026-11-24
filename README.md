@@ -9,7 +9,7 @@
 
 ## 설치
 
-1. [설치 파일 받기](https://989-alt.github.io/teacher-widget/teacher-widget-setup-1.0.0.exe)를 눌러 내려받아 실행합니다. (학교 인터넷에서도 열리는 주소입니다. [Releases](../../releases/latest)에도 같은 파일이 있습니다.)
+1. [설치 파일 받기](https://989-alt.github.io/teacher-widget/)를 눌러 내려받아 실행합니다. (학교 인터넷에서도 열리는 주소입니다. [Releases](../../releases/latest)에도 같은 파일이 있습니다.)
 2. 윈도우가 "알 수 없는 게시자" 경고를 띄우면 `추가 정보 → 실행`을 누릅니다. (코드 서명이 없는 프로그램이라 뜨는 경고입니다.)
 3. 관리자 권한 없이 사용자 폴더에 설치되고, 끝나면 바로 켜집니다.
 
