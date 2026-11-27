@@ -1,0 +1,13 @@
+{
+  "version": "1.0.13",
+  "added": [
+    "배경·색 바꾸기에서 카드의 모서리 둥글기를 고를 수 있음 (각지게부터 아주 둥글게까지)"
+  ],
+  "improved": [
+    "일정·메모·뉴스처럼 줄이 많은 칸은 높이를 줄여도 아래 줄이 사라지지 않고, 마우스 휠로 넘겨 볼 수 있음",
+    "수업 도구 띠의 단추가 왼쪽에 몰리지 않고 가운데에 놓임"
+  ],
+  "url": "https://989-alt.github.io/teacher-widget/teacher-widget-setup-1.0.13.exe",
+  "sha256": "ee3f35580de6422057da4d7e5cfdcb96e3936a4ac6e9d2fe7352d1eeec3dc9f4",
+  "size": 34833410
+}
